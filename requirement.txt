@@ -1,0 +1,6 @@
+numpy
+matplotlib
+seaborn
+gmpy2
+prettytable
+scipy
